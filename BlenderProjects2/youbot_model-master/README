@@ -1,0 +1,8 @@
+In this package you can find hi-poly and low-poly KUKA youBot 3D model in different file formats: 
+* Original 3D model, converted from CAD drawings: in Blender format;
+* Simplified 3D model, suitable for visualization: in Blender format, in Collada format;
+* Convexhull approximation of the model above, reduced number of polygons, suitable for collision checking: in STL format.  
+
+If you have any questions regarding the models, please write to users@youbot-community.org.
+
+
